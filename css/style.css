@@ -37,6 +37,9 @@ hr{
   border-bottom: 1px solid rgba(0,0,0.2);
 }
 
+.list-unstyled li i {
+margin-right: 8px;
+}
 /* .btn-dank {
   font-size: 13px;
   color: #343a40;
